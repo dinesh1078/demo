@@ -1,0 +1,4 @@
+[all]
+unbantu1 ansible_hosts=localhost ansible_port=9000 ansible_user=root
+unbantu2 ansible_hosts=localhost ansible_port=9000 ansible_user=root
+unbantu3 ansible_hosts=localhost ansible_port=9000 ansible_user=root
