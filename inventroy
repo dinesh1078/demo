@@ -2,3 +2,13 @@
 unbantu1 ansible_hosts=localhost ansible_port=9000 ansible_user=root
 unbantu2 ansible_hosts=localhost ansible_port=9000 ansible_user=root
 unbantu3 ansible_hosts=localhost ansible_port=9000 ansible_user=root
+
+
+[DB]
+
+unbantu4 ansible_hosts=localhost ansible_port=81000 ansible_user=root
+unbantu5 ansible_hosts=localhost ansible_port=71000 ansible_user=root
+unbantu6 ansible_hosts=localhost ansible_port=61000 ansible_user=root
+unbantu7 ansible_hosts=localhost ansible_port=91000 ansible_user=root
+
+
